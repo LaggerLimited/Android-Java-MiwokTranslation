@@ -6,7 +6,7 @@ This application helps teach the Miwok language. The app is an example of fragme
 
 Download Miwok Translator here:
 
-[Miwok App](https://github.com/LaggerLimited/Android-Java-MiwokTranslation/blob/master/app-debug.apk)
+[Miwok App](https://github.com/LaggerLimited/Android-Java-MiwokTranslation/blob/master/Miwok-debug.zip)
 
 Install on the Android platform (minimum version 15)
 
